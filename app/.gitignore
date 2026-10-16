@@ -1,0 +1,4 @@
+/build/*
+!/build/dokka/
+/build/dokka/*
+!/build/dokka/html/
